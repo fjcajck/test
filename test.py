@@ -1,5 +1,5 @@
 def print_info():
-    print("hello\nworld")
+    print("hello world")
     # print("world")
     print("hello python")
 
