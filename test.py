@@ -1,6 +1,7 @@
 def print_info():
     print("hello\nworld")
     # print("world")
+    print("hello python")
 
 
 if __name__ == "__main__":
