@@ -1,5 +1,6 @@
 def print_info():
-    print("hello")
+    print("hello\nworld")
+    # print("world")
 
 
 if __name__ == "__main__":
